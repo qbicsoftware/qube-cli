@@ -6,7 +6,7 @@ GitPython==3.1.9
 autopep8==1.5.4
 cffi==1.14.3
 cryptography==3.1.1
-requests==2.24.0
+requests==2.25.1
 rich==8.0.0
 packaging==20.4
 appdirs==1.4.4
